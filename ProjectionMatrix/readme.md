@@ -1,2 +1,2 @@
-![Images/Persp.png](Perspective projection matrix) 
-![Images/Otho.png](Orthogonal projection matrix)
+![Perspective projection matrix setup](Images/Persp.png) 
+![Orthogonal projection matrix setup](Images/Otho.png)
