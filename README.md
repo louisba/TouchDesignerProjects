@@ -1,2 +1,5 @@
 # TouchDesignerProjects
-Projects I created that can help others 
+A collection of small TouchDesigner tools, examples, and reusable projects that I created and would like to share with others. 
+Feel free to explore, reuse, modify, and build upon them.
+
+- **ProjectionMatrix.toe** A simple and reusable TouchDesigner project implementing perspective and orthographic projection matrices.
