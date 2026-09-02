@@ -1,5 +1,8 @@
 # Kooima projection matrix
 
+Top render using Kooima's projection matrix
+Middle render using Perspective projection matrix
+Bottom render using Orthogonal projection matrix
 ![Project Screenshot](Ressources/Kooima_img.png)
 
 
