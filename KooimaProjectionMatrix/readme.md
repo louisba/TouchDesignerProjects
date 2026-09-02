@@ -1,6 +1,6 @@
 # Kooima projection matrix
 
-*The three cameras are sharing the same position*  
+**The three cameras are sharing the same position**
 <em>Top render using Kooima's projection matrix<em>  
 <em>Middle render using Perspective projection matrix<em>  
 <em>Bottom render using Orthogonal projection matrix<em> 
